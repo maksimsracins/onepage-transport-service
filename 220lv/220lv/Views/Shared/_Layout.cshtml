@@ -1,0 +1,18 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <partial name="_ScriptsPartial" />
+    <partial name="_StylesPartial"/>
+    <partial name="_MetadataPartial"/>
+</head>
+<body>
+    <partial name="_NavbarPartial" />
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+    <partial name="_FooterPartial"/>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
