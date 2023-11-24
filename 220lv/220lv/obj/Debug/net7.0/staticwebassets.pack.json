@@ -1,0 +1,369 @@
+{
+  "Files": [
+    {
+      "Id": "J:\\__Documents\\05_DEV\\04_Private\\220lv\\220lv\\220lv\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\220lv.bundle.scp.css",
+      "PackagePath": "staticwebassets\\220lv.bundle.scp.css"
+    },
+    {
+      "Id": "J:\\__Documents\\05_DEV\\04_Private\\220lv\\220lv\\220lv\\wwwroot\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "J:\\__Documents\\05_DEV\\04_Private\\220lv\\220lv\\220lv\\wwwroot\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "J:\\__Documents\\05_DEV\\04_Private\\220lv\\220lv\\220lv\\wwwroot\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "J:\\__Documents\\05_DEV\\04_Private\\220lv\\220lv\\220lv\\wwwroot\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "J:\\__Documents\\05_DEV\\04_Private\\220lv\\220lv\\220lv\\wwwroot\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "J:\\__Documents\\05_DEV\\04_Private\\220lv\\220lv\\220lv\\wwwroot\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "J:\\__Documents\\05_DEV\\04_Private\\220lv\\220lv\\220lv\\wwwroot\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "J:\\__Documents\\05_DEV\\04_Private\\220lv\\220lv\\220lv\\wwwroot\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "J:\\__Documents\\05_DEV\\04_Private\\220lv\\220lv\\220lv\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "J:\\__Documents\\05_DEV\\04_Private\\220lv\\220lv\\220lv\\wwwroot\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "J:\\__Documents\\05_DEV\\04_Private\\220lv\\220lv\\220lv\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "J:\\__Documents\\05_DEV\\04_Private\\220lv\\220lv\\220lv\\wwwroot\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "J:\\__Documents\\05_DEV\\04_Private\\220lv\\220lv\\220lv\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "J:\\__Documents\\05_DEV\\04_Private\\220lv\\220lv\\220lv\\wwwroot\\img\\facebook.png",
+      "PackagePath": "staticwebassets\\img\\facebook.png"
+    },
+    {
+      "Id": "J:\\__Documents\\05_DEV\\04_Private\\220lv\\220lv\\220lv\\wwwroot\\img\\telegram.png",
+      "PackagePath": "staticwebassets\\img\\telegram.png"
+    },
+    {
+      "Id": "J:\\__Documents\\05_DEV\\04_Private\\220lv\\220lv\\220lv\\wwwroot\\img\\user.png",
+      "PackagePath": "staticwebassets\\img\\user.png"
+    },
+    {
+      "Id": "J:\\__Documents\\05_DEV\\04_Private\\220lv\\220lv\\220lv\\wwwroot\\img\\whatsapp.png",
+      "PackagePath": "staticwebassets\\img\\whatsapp.png"
+    },
+    {
+      "Id": "J:\\__Documents\\05_DEV\\04_Private\\220lv\\220lv\\220lv\\wwwroot\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "J:\\__Documents\\05_DEV\\04_Private\\220lv\\220lv\\220lv\\wwwroot\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "J:\\__Documents\\05_DEV\\04_Private\\220lv\\220lv\\220lv\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "J:\\__Documents\\05_DEV\\04_Private\\220lv\\220lv\\220lv\\wwwroot\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "J:\\__Documents\\05_DEV\\04_Private\\220lv\\220lv\\220lv\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "J:\\__Documents\\05_DEV\\04_Private\\220lv\\220lv\\220lv\\wwwroot\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "J:\\__Documents\\05_DEV\\04_Private\\220lv\\220lv\\220lv\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "J:\\__Documents\\05_DEV\\04_Private\\220lv\\220lv\\220lv\\wwwroot\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "J:\\__Documents\\05_DEV\\04_Private\\220lv\\220lv\\220lv\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "J:\\__Documents\\05_DEV\\04_Private\\220lv\\220lv\\220lv\\wwwroot\\language\\en.json",
+      "PackagePath": "staticwebassets\\language\\en.json"
+    },
+    {
+      "Id": "J:\\__Documents\\05_DEV\\04_Private\\220lv\\220lv\\220lv\\wwwroot\\language\\lv.json",
+      "PackagePath": "staticwebassets\\language\\lv.json"
+    },
+    {
+      "Id": "J:\\__Documents\\05_DEV\\04_Private\\220lv\\220lv\\220lv\\wwwroot\\language\\ru.json",
+      "PackagePath": "staticwebassets\\language\\ru.json"
+    },
+    {
+      "Id": "J:\\__Documents\\05_DEV\\04_Private\\220lv\\220lv\\220lv\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "J:\\__Documents\\05_DEV\\04_Private\\220lv\\220lv\\220lv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "J:\\__Documents\\05_DEV\\04_Private\\220lv\\220lv\\220lv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "J:\\__Documents\\05_DEV\\04_Private\\220lv\\220lv\\220lv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "J:\\__Documents\\05_DEV\\04_Private\\220lv\\220lv\\220lv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "J:\\__Documents\\05_DEV\\04_Private\\220lv\\220lv\\220lv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "J:\\__Documents\\05_DEV\\04_Private\\220lv\\220lv\\220lv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "J:\\__Documents\\05_DEV\\04_Private\\220lv\\220lv\\220lv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "J:\\__Documents\\05_DEV\\04_Private\\220lv\\220lv\\220lv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "J:\\__Documents\\05_DEV\\04_Private\\220lv\\220lv\\220lv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "J:\\__Documents\\05_DEV\\04_Private\\220lv\\220lv\\220lv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "J:\\__Documents\\05_DEV\\04_Private\\220lv\\220lv\\220lv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "J:\\__Documents\\05_DEV\\04_Private\\220lv\\220lv\\220lv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "J:\\__Documents\\05_DEV\\04_Private\\220lv\\220lv\\220lv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "J:\\__Documents\\05_DEV\\04_Private\\220lv\\220lv\\220lv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "J:\\__Documents\\05_DEV\\04_Private\\220lv\\220lv\\220lv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "J:\\__Documents\\05_DEV\\04_Private\\220lv\\220lv\\220lv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "J:\\__Documents\\05_DEV\\04_Private\\220lv\\220lv\\220lv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "J:\\__Documents\\05_DEV\\04_Private\\220lv\\220lv\\220lv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "J:\\__Documents\\05_DEV\\04_Private\\220lv\\220lv\\220lv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "J:\\__Documents\\05_DEV\\04_Private\\220lv\\220lv\\220lv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "J:\\__Documents\\05_DEV\\04_Private\\220lv\\220lv\\220lv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "J:\\__Documents\\05_DEV\\04_Private\\220lv\\220lv\\220lv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "J:\\__Documents\\05_DEV\\04_Private\\220lv\\220lv\\220lv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "J:\\__Documents\\05_DEV\\04_Private\\220lv\\220lv\\220lv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "J:\\__Documents\\05_DEV\\04_Private\\220lv\\220lv\\220lv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "J:\\__Documents\\05_DEV\\04_Private\\220lv\\220lv\\220lv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "J:\\__Documents\\05_DEV\\04_Private\\220lv\\220lv\\220lv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "J:\\__Documents\\05_DEV\\04_Private\\220lv\\220lv\\220lv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "J:\\__Documents\\05_DEV\\04_Private\\220lv\\220lv\\220lv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "J:\\__Documents\\05_DEV\\04_Private\\220lv\\220lv\\220lv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "J:\\__Documents\\05_DEV\\04_Private\\220lv\\220lv\\220lv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "J:\\__Documents\\05_DEV\\04_Private\\220lv\\220lv\\220lv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "J:\\__Documents\\05_DEV\\04_Private\\220lv\\220lv\\220lv\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "J:\\__Documents\\05_DEV\\04_Private\\220lv\\220lv\\220lv\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "J:\\__Documents\\05_DEV\\04_Private\\220lv\\220lv\\220lv\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "J:\\__Documents\\05_DEV\\04_Private\\220lv\\220lv\\220lv\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "J:\\__Documents\\05_DEV\\04_Private\\220lv\\220lv\\220lv\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "J:\\__Documents\\05_DEV\\04_Private\\220lv\\220lv\\220lv\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "J:\\__Documents\\05_DEV\\04_Private\\220lv\\220lv\\220lv\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "J:\\__Documents\\05_DEV\\04_Private\\220lv\\220lv\\220lv\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "J:\\__Documents\\05_DEV\\04_Private\\220lv\\220lv\\220lv\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "J:\\__Documents\\05_DEV\\04_Private\\220lv\\220lv\\220lv\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "J:\\__Documents\\05_DEV\\04_Private\\220lv\\220lv\\220lv\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "J:\\__Documents\\05_DEV\\04_Private\\220lv\\220lv\\220lv\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "J:\\__Documents\\05_DEV\\04_Private\\220lv\\220lv\\220lv\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "J:\\__Documents\\05_DEV\\04_Private\\220lv\\220lv\\220lv\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "J:\\__Documents\\05_DEV\\04_Private\\220lv\\220lv\\220lv\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "J:\\__Documents\\05_DEV\\04_Private\\220lv\\220lv\\220lv\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "J:\\__Documents\\05_DEV\\04_Private\\220lv\\220lv\\220lv\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "J:\\__Documents\\05_DEV\\04_Private\\220lv\\220lv\\220lv\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "J:\\__Documents\\05_DEV\\04_Private\\220lv\\220lv\\220lv\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "J:\\__Documents\\05_DEV\\04_Private\\220lv\\220lv\\220lv\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "J:\\__Documents\\05_DEV\\04_Private\\220lv\\220lv\\220lv\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "J:\\__Documents\\05_DEV\\04_Private\\220lv\\220lv\\220lv\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "J:\\__Documents\\05_DEV\\04_Private\\220lv\\220lv\\220lv\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "J:\\__Documents\\05_DEV\\04_Private\\220lv\\220lv\\220lv\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.220lv.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.220lv.props",
+      "PackagePath": "build\\220lv.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.220lv.props",
+      "PackagePath": "buildMultiTargeting\\220lv.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.220lv.props",
+      "PackagePath": "buildTransitive\\220lv.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
